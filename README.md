@@ -8,7 +8,7 @@ MATLAB 2018b以上执行 mex -setup 以安装Microsoft Visual C++编译器
 
 MATLAB 2018b以上执行 mex -setup -V C++ 察看哪些编译器受支持。
 
-MATLAB中执行 mex XXX.c 来编译它为mex文件。
+MATLAB中执行 mex xxx.c 来编译它为mex文件。
 
 SHA256 的 vs_BuildTools_2015.exe 哈希:
 1e1774869abd953d05d10372b7c08bfa0c76116f5c6df1f3d031418ccdcd8f7b
